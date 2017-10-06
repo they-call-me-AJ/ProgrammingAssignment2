@@ -1,8 +1,6 @@
-## This combination of the follosing functions will enable the user to
-## input a matrix and output the inverse of that matrix.  The inverse of the
-## matrix will be cached, so that once it has been solved, if the matrix does
-## not change, the function will retrieve the inverse from cache instead of
-## resolving the matrix
+## These two functions can be used together to output the inverse of an 
+## inputted matrix.  The inverse of the matrix will be cached, so it can
+## be retrieved if the matrix has not been changed.
 
 ## This function will create a special "matrix" that can cache its inverse
 
